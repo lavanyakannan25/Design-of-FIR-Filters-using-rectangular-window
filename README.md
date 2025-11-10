@@ -1,4 +1,4 @@
-# Design-of-FIR-Filters-using-rectangular-window
+
 #          DESIGN OF LOW PASS FIR DIGITAL FILTER 
 
 # AIM: 
